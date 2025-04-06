@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=PolicyKit Manager GUI
+Icon=privacy-policy.png
+Exec=/usr/bin/polkit-manager-gui-pkexec
+Terminal=false
+Categories=System;

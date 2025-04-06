@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+pkexec "/usr/sbin/polkit-manager-gui" $@

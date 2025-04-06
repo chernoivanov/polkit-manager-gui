@@ -1,0 +1,3 @@
+PySide2.QtCore,
+PySide2.QtWidgets,
+PySide2.QtGui

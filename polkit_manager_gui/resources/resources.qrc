@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="resources">
+    <file alias="action.png">action.png</file>
+    <file alias="add.png">add.png</file>
+    <file alias="cancel.png">cancel.png</file>
+    <file alias="collapse.png">collapse.png</file>
+    <file alias="expand.png">expand.png</file>
+    <file alias="info.png">info.png</file>
+    <file alias="policy.png">policy.png</file>
+    <file alias="privacy-policy.png">privacy-policy.png</file>
+    <file alias="quit.png">quit.png</file>
+    <file alias="remove.png">remove.png</file>
+    <file alias="save.png">save.png</file>
+  </qresource>
+  <qresource prefix="polkit_manager_gui/"/>
+</RCC>
